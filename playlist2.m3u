@@ -92,3 +92,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Magna_Channel_logo.png/512px-Magna_Channel_logo.png" group-title="ALL TV",MAGNA CHANNEL HD
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/GTV_logo_2017.svg/512px-GTV_logo_2017.svg.png" group-title="ALL TV",GTV DIGITAL
+http://103.130.6.240:3058/stream/channelid/73272313?ticket=DAE5835219B972D2F5F7E818D0824B43DEA4C1A2&profile=pass
