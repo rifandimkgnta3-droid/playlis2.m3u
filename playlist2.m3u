@@ -71,3 +71,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8|User-Agent=referrer=htt
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nusantara_TV_logo.svg/512px-Nusantara_TV_logo.svg.png" group-title="ALL TV",ANTV HD
 http://103.66.62.83:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mentari_TV_logo.svg/512px-Mentari_TV_logo.svg.png" group-title="ALL TV",MENTARITV HD
+http://103.66.62.83:8000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Moji_logo.svg/512px-Moji_logo.svg.png" group-title="ALL TV",MOJITV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
