@@ -67,8 +67,14 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #EXTINF:-1 tvg-id="RTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rajawali_Televisi_logo.png/512px-Rajawali_Televisi_logo.png" group-title="ALL TV",RTV HD
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTINF:-1 tvg-id="KompasTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kompas_TV_logo.svg/512px-Kompas_TV_logo.svg.png" group-title="ALL TV",KOMPASTV HD
-https://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&userid=lite&chname=KompasTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kompas_TV_logo.svg/512px-Kompas_TV_logo.svg.png" group-title="ALL TV",KOMPASTV HD
+http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8|User-Agent=referrer=http://www.dens/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/MetroTV_logo.svg/512px-MetroTV_logo.svg.png" group-title="ALL TV",METROTV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8|User-Agent=referrer=http://www.dens/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TvOne_logo.svg/512px-TvOne_logo.svg.png" group-title="ALL TV",TVONE HD
+http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8|User-Agent=referrer=http://www.dens.tv/
+
+
+
