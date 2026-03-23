@@ -437,5 +437,5 @@ http://103.66.62.83:8000/play/a00y/index.m3u8
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="iNews.IPTV" tvg-name="iNews" tvg-logo="https://object.streamized.net/img/inews.png" group-title="ALL TV", INEWS DIGITAL
+#EXTINF:-1 tvg-id="iNews.IPTV" tvg-name="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/INEWS_logo.svg/512px-INEWS_logo.svg.png" group-title="ALL TV", INEWS DIGITAL
 http://103.66.62.83:8000/play/a00d/index.m3u8
