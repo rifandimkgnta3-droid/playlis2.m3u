@@ -383,3 +383,59 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/in
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
 #EXTINF:-1 tvg-id="Uniques" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/uniquest.png" group-title="ALL TV",UNIQUEST
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="ALL TV", ANTV DIGITAL
+http://103.66.62.83:8000/play/a00r/index.m3u8
+
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Indosiar_logo.svg/512px-Indosiar_logo.svg.png" group-title="ALL TV", INDOSIAR DIGITAL
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/1139211.m3u8
+http://103.146.197.250:25461/live/daeng/tmgrh/16.m3u8
+#http://filex.me:8080/live/000003/000003/302264.m3u8
+#http://xtv.ooo:8080/live/150324003/11150324/350972.m3u8
+
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=6140692,AVERAGE-BANDWIDTH=6031069,RESOLUTION=1020x720,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/SCTV_logo.svg/512px-SCTV_logo.svg.png" group-title="ALL TV", SCTV DIGITAL
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/1067262.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/INEWS_logo.svg/512px-INEWS_logo.svg.png" group-title="ALL TV", MOJI DIGITAL
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://103.66.62.83:8000/play/a00i/index.m3u8
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="RCTI.IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/RCTI_logo_2015.svg/512px-RCTI_logo_2015.svg.png" group-title="ALL TV", RCTI DIGITAL
+http://103.66.62.83:8000/play/a00v/index.m3u8
+
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=6140692,AVERAGE-BANDWIDTH=6031069,
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="MNCTV.IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MNCTV_logo.svg/512px-MNCTV_logo.svg.png" group-title="ALL TC", MNCTV DIGITAL
+http://103.66.62.83:8000/play/a00w/index.m3u8
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="GTV.IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/GTV_logo_2017.svg/512px-GTV_logo_2017.svg.png" group-title="ALL TV", GTV DIGITAL
+http://103.66.62.83:8000/play/a00y/index.m3u8
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="iNews.IPTV" tvg-name="iNews" tvg-logo="https://object.streamized.net/img/inews.png" group-title="ALL TV", INEWS DIGITAL
+http://103.66.62.83:8000/play/a00d/index.m3u8
