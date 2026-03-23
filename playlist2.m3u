@@ -439,3 +439,9 @@ http://103.66.62.83:8000/play/a00y/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="iNews.IPTV" tvg-name="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/INEWS_logo.svg/512px-INEWS_logo.svg.png" group-title="ALL TV", INEWS DIGITAL
 http://103.66.62.83:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Trans7_logo.svg/512px-Trans7_logo.svg.png" group-title="ALL TV",ID: TRANS 7 DIGITAL
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/162502
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trans_TV_logo.svg/512px-Trans_TV_logo.svg.png" group-title="ALL TV",ID: TRANSTV DIGITAL
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/162503
