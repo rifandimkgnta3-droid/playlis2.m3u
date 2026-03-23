@@ -513,7 +513,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/HGTV_logo.svg/512px-HGTV_logo.svg.png" group-title="PENGETAHUAN",HGTV
 http://202.169.224.202:8800/udp/239.9.1.3:1234
 
-#EXTINF:-1 group-title="PENGETAHUANNYA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet_logo.svg/512px-Animal_Planet_logo.svg.png",ANIMAL PLANET
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet_logo.svg/512px-Animal_Planet_logo.svg.png",ANIMAL PLANET
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c9f7a6d3b2e4e5d8a61f4d0c2b9e813:b8f52451c67a2b54f272543eef45b621
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
