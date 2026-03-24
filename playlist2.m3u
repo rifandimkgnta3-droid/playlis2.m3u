@@ -513,10 +513,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/HGTV_logo.svg/512px-HGTV_logo.svg.png" group-title="PENGETAHUAN",HGTV
 http://202.169.224.202:8800/udp/239.9.1.3:1234
 
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet_logo.svg/512px-Animal_Planet_logo.svg.png",ANIMAL PLANET
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c9f7a6d3b2e4e5d8a61f4d0c2b9e813:b8f52451c67a2b54f272543eef45b621
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet_logo.svg/512px-Animal_Planet_logo.svg.png" group-title="PENGETAHUAN", ANIMAL PLANET
+http://202.169.224.202:8800/udp/239.9.1.7:1234
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -741,3 +739,36 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Lifetime_logo.svg/512px-Lifetime_logo.svg.png" group-title="GAYA HIDUP",LIFETIME
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/512px-VTV_Indonesia_2023.svg.png" group-title="ANAK", VTV HD
+http://202.169.224.202:8800/udp/239.9.1.39:1234
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Horee_logo.png/512px-Horee_logo.png" group-title="ANAK", HOREE
+http://202.169.224.202:8800/udp/239.9.1.26:1234
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hip_Hip_Horee_logo.png/512px-Hip_Hip_Horee_logo.png" group-title="ANAK", HIP HIP HOREE
+http://202.169.224.202:8800/udp/239.9.1.28:1234
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/My_Kids_logo.png/512px-My_Kids_logo.png" group-title="ANAK", MY KIDZ
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+
+#EXTINF:-1 group-title="ANAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dunia_Anak_logo.png/512px-Dunia_Anak_logo.png",DUNIA ANAK
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=24e63424fa264ceb9bc6215c0fe860e6:41427f48bce4ffa2ad1b435d9190c199
+https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
+
+#EXTINF:-1 group-title="ANAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Aniplus_logo.png/512px-Aniplus_logo.png",ANIPLUS
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
+
+#EXTINF:-1 group-title="ANAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cartoonito_logo.svg/512px-Cartoonito_logo.svg.png",CARTOONITO
+https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
+
+#EXTINF:-1 group-title="ANAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Max_Kids_logo.png/512px-Max_Kids_logo.png",MAX KIDS
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Biznet_Kids_logo.png/512px-Biznet_Kids_logo.png" group-title="ANAK",BIZNET KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
