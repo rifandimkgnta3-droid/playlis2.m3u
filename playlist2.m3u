@@ -768,7 +768,3 @@ https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
 
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Max_Kids_logo.png/512px-Max_Kids_logo.png",MAX KIDS
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Biznet_Kids_logo.png/512px-Biznet_Kids_logo.png" group-title="ANAK",BIZNET KIDS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
