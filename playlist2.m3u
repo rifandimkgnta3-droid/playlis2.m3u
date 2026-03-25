@@ -70,13 +70,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 #EXTINF:-1 tvg-id="RTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rajawali_Televisi_logo.png/512px-Rajawali_Televisi_logo.png" group-title="NASIONAL",RTV HD
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kompas_TV_logo.svg/512px-Kompas_TV_logo.svg.png" group-title="BERITA",KOMPASTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kompas_TV_logo.svg/512px-Kompas_TV_logo.svg.png" group-title="NASIONAL",KOMPASTV HD
 http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8|User-Agent=referrer=http://www.dens/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/MetroTV_logo.svg/512px-MetroTV_logo.svg.png" group-title="BERITA",METROTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/MetroTV_logo.svg/512px-MetroTV_logo.svg.png" group-title="NASIONAL",METROTV HD
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8|User-Agent=referrer=http://www.dens/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TvOne_logo.svg/512px-TvOne_logo.svg.png" group-title="BERITA",TVONE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TvOne_logo.svg/512px-TvOne_logo.svg.png" group-title="NASIONAL",TVONE HD
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8|User-Agent=referrer=http://www.dens.tv/
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="NASIONAL", ANTV HD
@@ -96,16 +96,16 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Moji_logo.svg/512px-Moji_logo.svg.png" group-title="NASIONAL",MOJI HD
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/TVRI_logo_2019.svg/512px-TVRI_logo_2019.svg.png" group-title="BERITA",TVRI NASIONAL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/TVRI_logo_2019.svg/512px-TVRI_logo_2019.svg.png" group-title="NASIONAL",TVRI NASIONAL HD
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nusantara_TV_logo.svg/512px-Nusantara_TV_logo.svg.png" group-title="NASIONAL",NUSANTARATV HD
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BN_Channel_logo.png/512px-BN_Channel_logo.png" group-title="BERITA",BN CHANNEL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BN_Channel_logo.png/512px-BN_Channel_logo.png" group-title="NASIONAL",BN CHANNEL HD
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BeritaSatu_logo.png/512px-BeritaSatu_logo.png" group-title="BERITA",BERITA SATU HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BeritaSatu_logo.png/512px-BeritaSatu_logo.png" group-title="NASIONAL",BERITA SATU HD
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Magna_Channel_logo.png/512px-Magna_Channel_logo.png" group-title="NASIONAL",MAGNA CHANNEL HD
