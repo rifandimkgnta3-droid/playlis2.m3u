@@ -826,7 +826,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MovieSphere_logo.png/512px-MovieSphere_logo.png" group-title="Movies" ,MOVIESPHERE LIONSGATE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MovieSphere_logo.png/512px-MovieSphere_logo.png" group-title="FILM" ,MOVIESPHERE LIONSGATE
 https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MovieSphere_logo.png/512px-MovieSphere_logo.png" group-title="FILM" ,OUTERSPHERE LIONSGATE
