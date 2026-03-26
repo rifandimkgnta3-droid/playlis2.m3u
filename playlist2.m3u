@@ -1167,12 +1167,8 @@ https://hgmtv.com:19360/asthatv/asthatv.m3u8
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Efarina_TV_logo.png/512px-Efarina_TV_logo.png",EFARINA TV
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 
-#EXTVLCOPT:http-referrer=https://bungotv.com/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png" group-title="DAERAH",BUNGO TV
-https://5bf7b725107e5.streamlock.net/bungotv/bungotv/chunklist_w1429108522.m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dhamma_TV_logo.png/512px-Dhamma_TV_logo.png" group-title="DAERAH",DHAMMA TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1186,12 +1182,8 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png",KAWANUA TV
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 
-#EXTVLCOPT:http-referrer=https://jogjatv.tv/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="DAERAH" tvg-id="Jogja TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Jogja_TV_logo.png/512px-Jogja_TV_logo.png",JOGJA TV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Duta_TV_logo.png/512px-Duta_TV_logo.png" group-title="DAERAH", DUTA TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1209,7 +1201,7 @@ https://stream.carubantv.id/hls/0/stream.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kilisuci_TV_logo.png/512px-Kilisuci_TV_logo.png",KILISUCI TC
+#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kilisuci_TV_logo.png/512px-Kilisuci_TV_logo.png",KILISUCI TV
 https://5bf7b725107e5.streamlock.net/kstv/kstv/chunklist_w1799577873.m3u8
 
 #EXTVLCOPT:http-referrer=https://cdn.siar.us
@@ -1317,8 +1309,71 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DM_TV_Malang_logo.png/512px-DM_TV_Malang_logo.png",DMTV MALANG
 https://e.siar.us/live/dmtv.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/JEKTV_logo.png/512px-JEKTV_logo.png",JEK TV
-http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/RCTV_logo.png/512px-RCTV_logo.png" group-title="DAERAH",RCTV
+https://v10.siar.us/rctv/live/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TA_TV_logo.png/512px-TA_TV_logo.png" group-title="DAERAH",TATV
+https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/JTV_logo.png/512px-JTV_logo.png" group-title="DAERAH",JTV SURABAYA
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TVKU_logo.png/512px-TVKU_logo.png" group-title="DAERAH",TVKU
+https://tvku.tv/hlsstream/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sangaji_TV_logo.png/512px-Sangaji_TV_logo.png" group-title="DAERAH",SANGAJI TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Balikpapan_TV_logo.png/512px-Balikpapan_TV_logo.png" group-title="DAERAH",BALIKPAPAN TV
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/PKTV_logo.png/512px-PKTV_logo.png" group-title="DAERAH",PKTV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Atambua_TV_logo.png/512px-Atambua_TV_logo.png" group-title="DAERAH",ATTAMBUA TV
+http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sakti_TV_logo.png/512px-Sakti_TV_logo.png" group-title="DAERAH",SAKTI TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Jambi_TV_logo.png/512px-Jambi_TV_logo.png" group-title="DAERAH",JAMBI TV
+https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Samarinda_TV_logo.png/512px-Samarinda_TV_logo.png" group-title="DAERAH",SAMARINDA TV
+http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/UGTV_logo.png/512px-UGTV_logo.png" group-title="DAERAH", UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Madu_TV_logo.png/512px-Madu_TV_logo.png" group-title="DAERAH",MADU TV HD
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Campus_TV_logo.png/512px-Campus_TV_logo.png" group-title="DAERAH",CAMPUS TV
+https://5bf7b725107e5.streamlock.net/campustv/campustv/chunklist_w1436484261.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ficom_Channel_logo.png/512px-Ficom_Channel_logo.png",FICOM CHANNEL
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Celebes_TV_logo.png/512px-Celebes_TV_logo.png" group-title="DAERAH",CELEBES TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stara_TV_logo.png/512px-Stara_TV_logo.png" group-title="DAERAH",STARATV PARAHYANGAN
+https://parahyangan.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ABTV_logo.png/512px-ABTV_logo.png" group-title="DAERAH",ABTV
+https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Matrix_TV_logo.png/512px-Matrix_TV_logo.png" group-title="DAERAH",MATRIX TV
+https://stream.matrixtv.id/hls/stream.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="Inspira.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Inspira_TV_logo.png/512px-Inspira_TV_logo.png" group-title="DAERAH", INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/0c913970f4e013e.m3u8
+
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="CNBC.Indonesia.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/CNBC_Indonesia_logo.svg/512px-CNBC_Indonesia_logo.svg.png" group-title="NASIONAL",CNBC INDONESIA
+#https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
