@@ -1294,12 +1294,6 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Banyumas_TV_logo.png/512px-Banyumas_TV_logo.png",BMSTV
-https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png",BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
@@ -1322,9 +1316,6 @@ http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TVKU_logo.png/512px-TVKU_logo.png" group-title="DAERAH",TVKU
 https://tvku.tv/hlsstream/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sangaji_TV_logo.png/512px-Sangaji_TV_logo.png" group-title="DAERAH",SANGAJI TV
-https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Balikpapan_TV_logo.png/512px-Balikpapan_TV_logo.png" group-title="DAERAH",BALIKPAPAN TV
 https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 
@@ -1336,9 +1327,6 @@ http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sakti_TV_logo.png/512px-Sakti_TV_logo.png" group-title="DAERAH",SAKTI TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Jambi_TV_logo.png/512px-Jambi_TV_logo.png" group-title="DAERAH",JAMBI TV
-https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Samarinda_TV_logo.png/512px-Samarinda_TV_logo.png" group-title="DAERAH",SAMARINDA TV
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
