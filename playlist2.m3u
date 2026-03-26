@@ -1161,4 +1161,10 @@ http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astha_TV_logo.png/512px-Astha_TV_logo.png" group-title="NASIONAL",ASTHA TV
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Efarina_TV_logo.png/512px-Efarina_TV_logo.png" group-title="DAERAH", EFARINA TV https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Efarina_TV_logo.png/512px-Efarina_TV_logo.png",EFARINA TV
+https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
+
+ 
