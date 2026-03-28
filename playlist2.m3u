@@ -1519,3 +1519,181 @@ https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb2
 #KODIPROP:inputstream.adaptive.license_key=https://wadukbau.my.id/Waduktv/license.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8xMDAvNDAyOGM2ODU4NDBmZjA0OTAxODQ1NjAxMDBjMzQzNjMvbWFuaWZlc3QubXBk&code=777
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Channel_Dangdut_Indonesia_logo.png/512px-Channel_Dangdut_Indonesia_logo.png" group-title="MUSIK",CDI
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
+http://gooo.blog/opix/genx.m3u8?id=cdi&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Channel_V_logo.png/512px-Channel_V_logo.png" group-title="MUSIK", CHANNEL V CHINA
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
+https://gooo.blog/opix/genx.m3u8?id=vchina&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/CJ_ENM_logo.png/512px-CJ_ENM_logo.png" group-title="MUSIK", K-POP CJ ENM
+https://jmp2.uk/stvp-US39000038W
+
+#EXTVLCOPT:http-referer=https://mic-indo.com/live/
+#EXTINF:-1 tvg-id="mic" tvg-name="Music Information Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Music_Channel_logo.png/512px-Music_Channel_logo.png" group-title="MUSIK", MUSIC INFORMATION CHANNEL
+https://mic.siar.us/mic/live/mic.m3u8
+https://mic.siar.us/mic/live/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IMTV_logo.png/512px-IMTV_logo.png",IMTV
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Premium_Music_TV_logo.png/512px-Premium_Music_TV_logo.png" group-title="MUSIK INTERNASIONAL",PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/360_Tunebox_logo.png/512px-360_Tunebox_logo.png" group-title="MUSIK INTERNASIONAL",360 TUNEBOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Music_Box_logo.png/512px-Music_Box_logo.png" group-title="MUSIK",MUSIX BOX CLASSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/mb_classic/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ocko_logo.png/512px-Ocko_logo.png" group-title="MUSIK INTERNASIONAL",OCKO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_ocko/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ocko_logo.png/512px-Ocko_logo.png" group-title="MUSIK INTERNASIONAL",OCKO BLACK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_ocko_black/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ocko_logo.png/512px-Ocko_logo.png" group-title="MUSIK INTERNASIONAL",OCKO EXPRES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_ocko_expres/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ocko_logo.png/512px-Ocko_logo.png" group-title="MUSIK INTERNASIONAL",OCKO STAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_ocko_star/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Retro_Music_logo.png/512px-Retro_Music_logo.png" group-title="MUSIK INTERNASIONAL",RETRO MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_retro_music/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rebel_TV_logo.png/512px-Rebel_TV_logo.png" group-title="MUSIK INTERNASIONAL",REBEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_rebel/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stingray_iConcerts_logo.png/512px-Stingray_iConcerts_logo.png" group-title="STINGRAY GRUP",STINGRAY ICONCERTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/XITE_logo.png/512px-XITE_logo.png" group-title="XITE GRUP", XITE 80S FLASHBACK
+https://jmp2.uk/stvp-USBB320000647
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/XITE_logo.png/512px-XITE_logo.png" group-title="XITE GRUP", XITE 90S THROWBACK
+https://jmp2.uk/stvp-USBB3200007AK
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/XITE_logo.png/512px-XITE_logo.png" group-title="XITE GRUP", XITE CELEBRATES
+https://jmp2.uk/stvp-USBD350003932
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/XITE_logo.png/512px-XITE_logo.png" group-title="XITE GRUP", XITE HITS
+https://jmp2.uk/stvp-USBD3300004RH
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/XITE_logo.png/512px-XITE_logo.png" group-title="XITE GRUP", XITE ROCK X MENTAL
+https://jmp2.uk/stvp-USBB2300004KV
+https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Vevo_logo.png/512px-Vevo_logo.png" group-title="VEVO GRUP", VEVO 70S & 80S
+https://jmp2.uk/stvp-GBBD1900009UD
+https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Vevo_logo.png/512px-Vevo_logo.png" group-title="VEVO GRUP", VEVO  90S & 00S
+https://jmp2.uk/stvp-GBBC2100002HP
+https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Vevo_logo.png/512px-Vevo_logo.png" group-title="VEVO GRUP", VEVO 2K
+#https://jmp2.uk/stvp-USBB4400015F5
+https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Vevo_logo.png/512px-Vevo_logo.png" group-title="VEVO GRUP", VEVO HIP-HOP & R&B
+https://jmp2.uk/stvp-GBBD2300001C0
+https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Vevo_logo.png/512px-Vevo_logo.png" group-title="VEVO GRUP", VEVO POP
+https://jmp2.uk/stvp-GBBC19000017V
+https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Vevo_logo.png/512px-Vevo_logo.png" group-title="VEVO GRUP", VEVO ROCK
+https://jmp2.uk/stvp-USBD3000145P
+https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
+
+#EXTINF:-1 group-title="STINGRAY GRUP" tvg-id="StingrayClassicRock.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stingray_logo.png/512px-Stingray_logo.png" ,STINGRAY CLASSIC ROCK
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY GRUP" tvg-id="StingrayClassica.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stingray_logo.png/512px-Stingray_logo.png" ,STINGRAY CLASSICA
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY GRUP" tvg-id="StingrayDJAZZ.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" ,STINGRAY DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY GRUP" tvg-id="StingrayFlashback70s.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stingray_logo.png/512px-Stingray_logo.png" ,STINGRAY FLASHBACK 70S
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY GRUP" tvg-id="StingrayHitList.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stingray_logo.png/512px-Stingray_logo.png" ,STINGRAY HITS LIST
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY GRUP" tvg-id="StingrayHolidayHits.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stingray_logo.png/512px-Stingray_logo.png" ,STINGRAY GREATEST HITS
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY GRUP" tvg-id="StingrayHotCountry.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stingray_logo.png/512px-Stingray_logo.png" ,STINGRAY HOT COUNTRY
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY GRUP" tvg-id="StingrayKaraoke.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stingray_logo.png/512px-Stingray_logo.png" ,STINGRAY KARAOKE
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY GRUP" tvg-id="StingrayNaturescape.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stingray_logo.png/512px-Stingray_logo.png" ,STINGRAY NATURESPACE
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY GRUP" tvg-id="StingrayNothinBut90s.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stingray_logo.png/512px-Stingray_logo.png" ,STINGRAY FLASHBACK 90S
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY GRUP" tvg-id="StingrayEverything80s.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stingray_logo.png/512px-Stingray_logo.png" ,STINGRAY FLASHBACK 80S
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY GRUP" tvg-id="StingrayRockAlternative.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stingray_logo.png/512px-Stingray_logo.png" ,STINGRAY ROCK ALTERNATIF
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY GRUP" tvg-id="StingrayRomanceLatino.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stingray_logo.png/512px-Stingray_logo.png" ,STINGRAY ROMANCE LATINO
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY GRUP" tvg-id="StingraySmoothJazz.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stingray_logo.png/512px-Stingray_logo.png" ,STINGRAY SMOOTH JAZZ
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY GRUP" tvg-id="StingraySoulStorm.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stingray_logo.png/512px-Stingray_logo.png" ,STINGRAY SOUL STORM
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY GRUP" tvg-id="StingrayTodaysKPop.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stingray_logo.png/512px-Stingray_logo.png" ,STINGRAY TODAY'S KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="STINGRAY GRUP" tvg-id="StingrayTodaysLatinPop.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stingray_logo.png/512px-Stingray_logo.png" ,STINGRAY TODAY'S LATIN POP
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
