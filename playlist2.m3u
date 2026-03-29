@@ -1697,3 +1697,6 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 
 #EXTINF:-1 group-title="STINGRAY GRUP" tvg-id="StingrayTodaysLatinPop.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stingray_logo.png/512px-Stingray_logo.png" ,STINGRAY TODAY'S LATIN POP
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_Ainos_TV.png/320px-Logo_Ainos_TV.png" group-title="DAERAH",AINOS TV
+https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
