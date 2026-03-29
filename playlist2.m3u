@@ -1362,10 +1362,6 @@ https://stream.matrixtv.id/hls/stream.m3u8
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/0c913970f4e013e.m3u8
 
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="CNBC.Indonesia.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/CNBC_Indonesia_logo.svg/512px-CNBC_Indonesia_logo.svg.png" group-title="NASIONAL",CNBC INDONESIA
-#https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -1406,60 +1402,60 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/4FUN_KIDS.png/330px-4FUN_KIDS.png" group-title="ANAK INTERNASIONAL",4FUN KIDS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/4FUN_KIDS.png/330px-4FUN_KIDS.png" group-title="ANAK DUNIA",4FUN KIDS HD
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Afarin_Baxcha_logo.png/512px-Afarin_Baxcha_logo.png" group-title="ANAK INTERNASIONAL",AFARIN BAXCA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Afarin_Baxcha_logo.png/512px-Afarin_Baxcha_logo.png" group-title="ANAK DUNIA",AFARIN BAXCA
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Balapan.jpg/500px-Balapan.jpg" group-title="ANAK INTERNASIONAL",BALAPAN 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Balapan.jpg/500px-Balapan.jpg" group-title="ANAK DUNIA",BALAPAN 
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Brat_TV_logo.png/512px-Brat_TV_logo.png" group-title="ANAK INTERNASIONAL",BRAT TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Brat_TV_logo.png/512px-Brat_TV_logo.png" group-title="ANAK DUNIA",BRAT TV
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Chinola_TV_logo.png/512px-Chinola_TV_logo.png" group-title="ANAK INTERNASIONAL",CHINOLA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Chinola_TV_logo.png/512px-Chinola_TV_logo.png" group-title="ANAK DUNIA",CHINOLA TV
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dios_Teve_Kids_logo.png/512px-Dios_Teve_Kids_logo.png" group-title="ANAK INTERNASIONAL",DIOS TEVE KIDS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dios_Teve_Kids_logo.png/512px-Dios_Teve_Kids_logo.png" group-title="ANAK DUNIA",DIOS TEVE KIDS
 https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bejoy_Kids_logo.png/512px-Bejoy_Kids_logo.png" group-title="ANAK INTERNASIONAL",BEJOY KIDS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bejoy_Kids_logo.png/512px-Bejoy_Kids_logo.png" group-title="ANAK DUNIA",BEJOY KIDS HD
 https://64b16f23efbee.streamlock.net/bejoy/bejoy/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/500px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="ANAK INTERNASIONAL" tvg-id="" tvg-name="",TRT DIYANE COCUK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/500px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="ANAK DUNIA" tvg-id="" tvg-name="",TRT DIYANE COCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 tvg-country="HT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Japanim_TV_logo.png/512px-Japanim_TV_logo.png" group-title="ANAK INTERNASIONAL",JAPANIM TV
+#EXTINF:0 tvg-country="HT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Japanim_TV_logo.png/512px-Japanim_TV_logo.png" group-title="ANAK",JAPANIM TV
 https://foxkidstv.be:3369/stream/play.m3u8
 
-#EXTINF:0 tvg-country="HT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/SAT-7_Kids_logo.png/512px-SAT-7_Kids_logo.png" group-title="ANAK INTERNASIONAL",SAT 7 KIDS
+#EXTINF:0 tvg-country="HT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/SAT-7_Kids_logo.png/512px-SAT-7_Kids_logo.png" group-title="ANAK DUNIA",SAT 7 KIDS
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 
-#EXTINF:0 tvg-country="HT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Koog_Kids_logo.png/512px-Koog_Kids_logo.png" group-title="ANAK INTERNASIONAL",KOOG KIDS
+#EXTINF:0 tvg-country="HT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Koog_Kids_logo.png/512px-Koog_Kids_logo.png" group-title="ANAK DUNIA",KOOG KIDS
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/640px-EBS_KIDS.svg.png" group-title="ANAK",EBS KIDS
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ZB_Cartoon_logo.png/512px-ZB_Cartoon_logo.png" group-title="ANAK INTERNASIONAL",ZB CARTOON
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ZB_Cartoon_logo.png/512px-ZB_Cartoon_logo.png" group-title="ANAK DUNIA",ZB CARTOON
 https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Roya_TV_logo.png/512px-Roya_TV_logo.png" group-title="ANAK INTERNASIONAL",ROYA KIDS ORIGINAL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Roya_TV_logo.png/512px-Roya_TV_logo.png" group-title="ANAK DUNIA",ROYA KIDS ORIGINAL
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist/4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Roya_TV_logo.png/512px-Roya_TV_logo.png" group-title="ANAK INTERNASIONAL",ROYA KIDS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Roya_TV_logo.png/512px-Roya_TV_logo.png" group-title="ANAK DUNIA",ROYA KIDS
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cartoonito_logo.svg/512px-Cartoonito_logo.svg.png" group-title="ANAK INTERNASIONAL",CARTOON JR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cartoonito_logo.svg/512px-Cartoonito_logo.svg.png" group-title="ANAK DUNIA",CARTOON JR
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TG_Junior_logo.png/512px-TG_Junior_logo.png" group-title="ANAK INTERNASIONAL",TG JUNIOR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TG_Junior_logo.png/512px-TG_Junior_logo.png" group-title="ANAK DUNIA",TG JUNIOR
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 ##https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1  tvg-id="556893" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kartoon_Channel_logo.png/512px-Kartoon_Channel_logo.png" group-title="ANAK INTERNASIONAL",KARTOON CHANNEL
+#EXTINF:-1  tvg-id="556893" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kartoon_Channel_logo.png/512px-Kartoon_Channel_logo.png" group-title="ANAK DUNIA",KARTOON CHANNEL
 https://d29ecfnk3jwkp9.cloudfront.net/out/v1/f246ce87793444d9bbbc56f244ec3c2c/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1467,7 +1463,7 @@ https://d29ecfnk3jwkp9.cloudfront.net/out/v1/f246ce87793444d9bbbc56f244ec3c2c/ma
 #EXTINF:-1 tvg-id="discovery-kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Discovery_Kids_logo.svg/512px-Discovery_Kids_logo.svg.png" group-title="ANAK",DISCOVERY KIDS
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/RTEjr_logo.png/512px-RTEjr_logo.png" group-title="ANAK INTERNASIONAL",RTE JR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/RTEjr_logo.png/512px-RTEjr_logo.png" group-title="ANAK DUNIA",RTE JR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a3c1d1cb88ea5a8a38528d0b9702390:a4c4e53270616bc2c88c5edce8fd4474
 https://live.rte.ie/live/a/channel4/channel4.isml/manifest.mpd 
@@ -1482,16 +1478,13 @@ https://gooo.blog/opix/genx.m3u8?id=planetfun&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIU
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 https://gooo.blog/opix/genx.m3u8?id=kidszoneplus&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 
-#EXTINF:-1 tvg-id="pop" tvg-name="POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pop_TV_logo.png/512px-Pop_TV_logo.png" group-title="ANAK INTERNASIONAL",POP
-##https://jmp2.uk/plu-664c94e80120f40008b860f0.m3u8
-
 #EXTINF:-1 tvg-id="Nicktoons.mv" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Nicktoons_logo.svg/512px-Nicktoons_logo.svg.png" group-title="ANAK",NICKTOONS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 http://41.205.93.154/NICKTOONS/index.m3u8
 http://212.102.60.231/NICKTOONS/index.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ABC_Cartoon_logo.png/512px-ABC_Cartoon_logo.png" group-title="ANAK INTERNASIONAL",ABC CARTOONS
+#EXTINF:-1#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ABC_Cartoon_logo.png/512px-ABC_Cartoon_logo.png" group-title="ANAK",ABC CARTOONS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aec51cf82ef14226a097a4ff91b7b32e:652bcaec397fb789fa5138fd3461333c
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/399aa25b71e84ab19a7d3261703c4a29/index.mpd
@@ -1541,13 +1534,13 @@ https://mic.siar.us/mic/live/playlist.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IMTV_logo.png/512px-IMTV_logo.png",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Premium_Music_TV_logo.png/512px-Premium_Music_TV_logo.png" group-title="MUSIK INTERNASIONAL",PREMIUM
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Premium_Music_TV_logo.png/512px-Premium_Music_TV_logo.png" group-title="MUSIK DUNIA",PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/360_Tunebox_logo.png/512px-360_Tunebox_logo.png" group-title="MUSIK INTERNASIONAL",360 TUNEBOX
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/360_Tunebox_logo.png/512px-360_Tunebox_logo.png" group-title="MUSIK DUNIA",360 TUNEBOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
@@ -1559,7 +1552,7 @@ https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/mb_classic/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ocko_logo.png/512px-Ocko_logo.png" group-title="MUSIK INTERNASIONAL",OCKO
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ocko_logo.png/512px-Ocko_logo.png" group-title="MUSIK DUNIA",OCKO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1568,25 +1561,25 @@ https://dash3.antik.sk/live/mb_classic/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_ocko/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ocko_logo.png/512px-Ocko_logo.png" group-title="MUSIK INTERNASIONAL",OCKO BLACK
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ocko_logo.png/512px-Ocko_logo.png" group-title="MUSIK DUNIA",OCKO BLACK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/test_ocko_black/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ocko_logo.png/512px-Ocko_logo.png" group-title="MUSIK INTERNASIONAL",OCKO EXPRES
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ocko_logo.png/512px-Ocko_logo.png" group-title="MUSIK DUNIA",OCKO EXPRES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/test_ocko_expres/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ocko_logo.png/512px-Ocko_logo.png" group-title="MUSIK INTERNASIONAL",OCKO STAR
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ocko_logo.png/512px-Ocko_logo.png" group-title="MUSIK DUNIA",OCKO STAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/test_ocko_star/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Retro_Music_logo.png/512px-Retro_Music_logo.png" group-title="MUSIK INTERNASIONAL",RETRO MUSIC
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Retro_Music_logo.png/512px-Retro_Music_logo.png" group-title="MUSIK DUNIA",RETRO MUSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1595,7 +1588,7 @@ https://dash3.antik.sk/live/test_ocko_star/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_retro_music/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rebel_TV_logo.png/512px-Rebel_TV_logo.png" group-title="MUSIK INTERNASIONAL",REBEL
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rebel_TV_logo.png/512px-Rebel_TV_logo.png" group-title="MUSIK DUNIA",REBEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
@@ -1700,3 +1693,4 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_Ainos_TV.png/320px-Logo_Ainos_TV.png" group-title="DAERAH",AINOS TV
 https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
+
