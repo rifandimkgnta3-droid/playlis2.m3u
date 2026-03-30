@@ -2059,7 +2059,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
-#EXTINF:-1 group-title="BERITA INTERNASIONAL" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jakarta_Globe_logo.png/512px-Jakarta_Globe_logo.pngg",JAKARTA GLOBE NEWS
+#EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jakarta_Globe_logo.png/512px-Jakarta_Globe_logo.pngg",JAKARTA GLOBE NEWS
 https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -2152,3 +2152,28 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/be2bcc4b75e348e5b331fc5f99aa3daf/in
 #KODIPROP:inputstream.adaptive.license_key=f2ecb7420c48463c9c1eeb9a908825ed:2ddaa7bc8fcff832464ad874ab468c3f
 #EXTINF:-1 group-title="BERITA INTERNASIONAL" tvg-id="CNBC Asia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",CNBC ASIA
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
+
+#EXTINF:-1 group-title="OLAHRAGA NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO_Max_logo.svg/512px-HBO_Max_logo.svg.png",MAX SPORTS
+https://cdn10jtedge.indihometv.com/atm/DASH/useesport/manifest.mpd
+
+#EXTINF:-1 group-title="BERITA INTERNASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia_Today_logo.svg/512px-Russia_Today_logo.svg.png",RUSSIA TODAY
+https://cdn10jtedge.indihometv.com/atm/DASH/rusiatv/manifest.mpd
+
+#EXTINF:-1 group-title="ISLAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MQTV_logo.png/512px-MQTV_logo.png",MQTV
+https://cdn10jtedge.indihometv.com/atm/DASH/mqtv/manifest.mpd
+
+#EXTINF:-1 group-title="ISLAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/MTA_TV_logo.png/512px-MTA_TV_logo.png",MTATV
+https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
+
+#EXTINF:-1 group-title="ISLAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/MUI_logo.png/512px-MUI_logo.png",MUI TV
+https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
+
+#EXTINF:-1 group-title="ISLAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rodja_TV_logo.png/512px-Rodja_TV_logo.png",RODJA TV
+https://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd
+
+#EXTINF:-1 group-title="KRISTEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png",U CHANNEL
+https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Prambors_logo.png/512px-Prambors_logo.png",PRAMBORS
+https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/manifest.mpd
+
