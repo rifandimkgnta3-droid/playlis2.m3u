@@ -2467,3 +2467,98 @@ https://flv.intechmedia.net/live/ch191.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Golf_Channel_logo.png/512px-Golf_Channel_logo.png" group-title="OLAHRAGA INTERNASIONAL",GOLF
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch195.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Viasat_logo.svg/512px-Viasat_logo.svg.png" group-title="DOKUMENTER INTERNASIONAL",VIASAT EXPLORE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls15/viasat_explore.mpd?n=ayoyoyPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhBUEdET1tBVEECwMgMyhcR19SRFZd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Viasat_logo.svg/512px-Viasat_logo.svg.png" group-title="DOKUMENTER INTERNASIONAL",VIASAT HISTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://mob.webtvstream.bhtelecom.ba/hls15/viasat_history.mpd?n=7e88df0f0fc1cbd49f02170eb9448f5a
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Viasat_logo.svg/512px-Viasat_logo.svg.png" group-title="DOKUMENTER INTERNASIONAL",VIASAT NATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0973b5d585851284
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
+#EXTINF:-1  tvg-name="Science HD" tvg-id="science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Discovery_Science_logo.png/512px-Discovery_Science_logo.png" group-title="DOKUMENTER",DISCOVERY SCIENCE
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Discovery_Turbo_logo.png/512px-Discovery_Turbo_logo.png" group-title="DOKUMENTER",DISCOVERY TURBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="PENGETAHUAN",REAL WILD
+https://amg00426-littledotstudio-realwildnz-samsungnz-wz0bm.amagi.tv/playlist/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1  tvg-name="Investigation Discovery USA Eastern HD" tvg-id="investigation-discovery-usa-eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Investigation_Discovery_logo.png/512px-Investigation_Discovery_logo.png" group-title="DUKOMENTER",DISCOVERY INVESTIGATION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2828ea6f6a984505b0454da0c03f68b9:5d3b7195086544c2807aa8c1544e7379
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
+https://e1.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot
+
+#EXTINF:-1 tvg-name="Discovery Life Channel HD" tvg-id="discovery-life-channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Discovery_Life_logo.png/512px-Discovery_Life_logo.png" group-title="DOKUMENTER",DISCOVERY LIFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+http://supersonictv.live:8080/864072/196529/22075
+
+#EXTINF:-1 tvg-id="discovering-china" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/CGTN_logo.svg/512px-CGTN_logo.svg.png" group-title="DOKUMENTER",DISCOVERING CHINA CGTN
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="cgtn-global-biz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/CGTN_logo.svg/512px-CGTN_logo.svg.png" group-title="DOKUMENTER",CGTN GLOBAL BIZ
+https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
+https://ml-pull-hwc.myco.io/CGTN6/hls/index.m3u8
+
+#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO_Max_logo.svg/512px-HBO_Max_logo.svg.png",MAX EATS
+https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="Insert.id" tvg-name="!nsert" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Trans_TV_logo_2013.svg/512px-Trans_TV_logo_2013.svg.png" group-title="HIBURAN",!NSERT
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="DOKUMENTER",WEDOTV BIG STORIES
+https://op-group1-swiftservehd-1.dens.tv/h/h69/wedotv_big_stories.m3u8?app_type=web&userid=lite&chname=wedotvBig_Stories
+
+#EXTINF:-1 tvg-chno="11" tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_America_logo.svg/512px-BBC_America_logo.svg.png" group-title="FILM INTERNASIONAL",BBC AMERICA
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1  tvg-name="0000" tvg-id="0000" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/OCN_logo.png/512px-OCN_logo.png" group-title="KOREA TV",OCN MOVIES 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a97de619e5834e6da10c9bab768fc626:1452d46b8ecd87b38310ce90d4f5209f
+https://ocnmovies2-drm2-mcdn.tving.com/ocnmovies2_drm/live5000.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/OCN_logo.png/512px-OCN_logo.png" group-title="KOREA TV",OCN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fe5dc0503a849cbb1966cdd1faa6066:1058f9cebf4d4198b09335ee64cea5dc
+http://ocn-drm2-mcdn.tving.com/ocn_drm/live5000.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="KOREA TV",KOREAN DRAMA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="FILM INTERNASIONAL",ASIAN CRUSH
+https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8?app_bundle=https://www.asiancrush.com&app_name=asiancrush&app_store_url=&url=https://www.asiancrush.com&genre=Documentary,Independent,Sci-Fi%20&%20Fantasy,Kids%20&%20Family,Drama,Romance,Comedy,Action%20&%20Adventure,Sports&ic=&us_privacy=1YNN&gdpr=0&gdpr_consent=0&did=vir_webe2f1f1c449b2b43d72e1a991a25f2666&dnt=1&coppa=0
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TNT_logo.svg/512px-TNT_logo.svg.png" group-title="FILM DUNIA",TNT MEXICO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tnt_hd/default/index.mpd
