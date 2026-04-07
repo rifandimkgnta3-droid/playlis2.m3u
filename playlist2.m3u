@@ -2541,7 +2541,7 @@ https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainMan
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tnt_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrEpBg1l8aII0IHzxfJOicThMfHXhRIGfZrQ&s", KBS
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/KBS_logo.svg/512px-KBS_logo.svg.png", KBS
 https://32e8419d959d4d7688f8b9b1ed3dc869.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ctp689jis2dnq/8bec6200-6073-49b3-91a8-e286953fdfa7/2.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/MBC_logo.svg/512px-MBC_logo.svg.png", MBC
