@@ -2676,7 +2676,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-STAR-VISION-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6248c6d3-6b6c-4b88-ae8f-a7c119ab380a/manifest.m3u8?hdnts=st%3D1758606460~exp%3D1758628060~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-STAR-VISION-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F6248c6d3-6b6c-4b88-ae8f-a7c119ab380a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.208.182_yuppfast_2_channel_74_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.208.182_yuppfast_2_channel_74_-1~hmac%3Dc67efad5e5d630d905ebdf1fa63a1e14fa303bddb63de699ded81c57d3541293
 
-#EXTINF:-1 tvg-id="shorts-tv-active" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/ShortsTV_logo.png/512px-ShortsTV_logo.png" group-title="FILM INTERNASIONAL",SHOSRTS TV
+#EXTINF:-1 tvg-id="shorts-tv-active" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/ShortsTV_logo.png/512px-ShortsTV_logo.png" group-title="FILM INTERNASIONAL",SHORTS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
