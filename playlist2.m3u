@@ -93,8 +93,14 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Moji_logo.svg/512px-Moji_logo.svg.png" group-title="NASIONAL",MOJI HD
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1 tvg-id="19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Moji_logo.svg/512px-Moji_logo.svg.png" group-title="NASIONAL",MOJI HD
+#EXTVLCOPT:http-referrer=https://m.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.dantetivi.workers.dev/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/TVRI_logo_2019.svg/512px-TVRI_logo_2019.svg.png" group-title="NASIONAL",TVRI NASIONAL HD
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
@@ -957,11 +963,14 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b3840
 #EXTINF:-1 tvg-id="TVRI World" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_logo_2019.svg/512px-TVRI_logo_2019.svg.png" group-title="NASIONAL",TVRI WORLD
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/TVRIWorld.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="NASIONAL" tvg-id="SindoNews" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/SINDOnews_logo.png/512px-SINDOnews_logo.png",SINDONEWS
-https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+#EXTINF:-1 tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/SINDOnews_logo.png/512px-SINDOnews_logo.png" group-title="NASIONAL",SINDONEWS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=5
+https://ayo.maling.pl/Vision/index.mpd?id=5
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1004,9 +1013,9 @@ https://tvstreamcast.com/indonesiana.m3u8
 https://gooo.blog/opix/genx.m3u8?id=ktv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 https://flv.intechmedia.net/live/ch118.m3u8|user-agent=Mozilla/5.0
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-id="ElshintaTV.my.id" tvg-name="ElshintaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Elshinta_TV_logo.png/512px-Elshinta_TV_logo.png" group-title="NASIONAL",ELSHINTA TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Elshinta_TV_logo.png/512px-Elshinta_TV_logo.pngds/livestreaming/image/10975/tes-elshinta-tv-eb36eb.jpg" group-title="DAERAH", ELSHINTA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="CNBC.Indonesia.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/CNBC_Indonesia_logo.svg/512px-CNBC_Indonesia_logo.svg.png" group-title="NASIONAL",CNBC INDONESIA
@@ -2070,68 +2079,46 @@ https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Prambors_logo.png/512px-Prambors_logo.png",PRAMBORS
 https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/manifest.mpd
 
-#EXTINF:-1 tvg-id="Champions.TV.1.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Champions_TV_logo.png/512px-Champions_TV_logo.png" group-title="OLAHRAGA NASIONAL",CHAMPIONS TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=6685&type=drm
-##KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
-https://pipit.barjagaul.workers.dev/play.mpd?id=6685&type=dash
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="Champions.TV.1.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="OLAHRAGA INTERNASIONAL",CHAMPIONS TV 1
+https://bosstv.asia/yabostv/17938.mpd
 
-#EXTINF:-1 tvg-id="Champions.TV.2.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Champions_TV_logo.png/512px-Champions_TV_logo.png" group-title="OLAHRAGA NASIONAL",CHAMPIONS TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=6686&type=drm
-##KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
-https://pipit.barjagaul.workers.dev/play.mpd?id=6686&type=dash
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
+#EXTINF:-1 tvg-id="Champions.TV.2.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Champions_TV_logo.png/512px-Champions_TV_logo.png10823120818" group-title="OLAHRAGA INTERNASIONAL",CHAMPIONS TV 2
+https://bosstv.asia/yabostv/6686.mpd
 
-#EXTINF:-1 tvg-id="Champions.TV.3.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Champions_TV_logo.png/512px-Champions_TV_logo.png" group-title="OLAHRAGA NASIONAL",CHAMPIONS TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=6786&type=drm
-##KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
-https://pipit.barjagaul.workers.dev/play.mpd?id=6786&type=dash
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5412d08888ff264c6da64689ecb05e21:2cdada53fa00b7b66518261ed587b2d9
+#EXTINF:-1 tvg-id="Champions.TV.3.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Champions_TV_3.png" group-title="OLAHRAGA INTERNASIONAL",CHAMPIONS TV 3
+https://bosstv.asia/yabostv/19404.mpd
+https://bosstv.asia/yabostv/6786.mpd
 
-#EXTINF:-1 tvg-id="Champions.TV.5.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Champions_TV_logo.png/512px-Champions_TV_logo.png" group-title="OLAHRAGA NASIONAL",CHAMPIONS TV 5
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=9182&type=drm
-##KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
-https://pipit.barjagaul.workers.dev/play.mpd?id=9182&type=dash
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=654e3893f622a676cccd048d13b8d54e:fc272dd6b7945bcd562c186854b8538b
+#EXTINF:-1 tvg-id="Champions.TV.5.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Champions_TV_5.png" group-title="OLAHRAGA INTERNASIONAL",CHAMPIONS TV 5
+https://bosstv.asia/yabostv/9182.mpd
 
-#EXTINF:-1 tvg-id="Champions.TV.6.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Champions_TV_logo.png/512px-Champions_TV_logo.png" group-title="OLAHRAGA NASIONAL",CHAMPIONS TV 6
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=9183&type=drm
-##KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
-https://pipit.barjagaul.workers.dev/play.mpd?id=9183&type=dash
-
-#EXTINF:-1 group-title="OLAHRAGA NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Champions_TV_logo.png/512px-Champions_TV_logo.png",CHAMPIONS FIGHT
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=20216&type=drm
-https://pipit.barjagaul.workers.dev/play.mpd?id=20216&type=dash
-
-#EXTINF:-1 group-title="OLAHRAGA NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Champions_TV_logo.png/512px-Champions_TV_logo.png",CHAMPIONS GOLF 1
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=18189&type=drm
-https://pipit.barjagaul.workers.dev/play.mpd?id=18189&type=dash
-
-#EXTINF:-1 group-title="OLAHRAGA NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Champions_TV_logo.png/512px-Champions_TV_logo.png",CHAMPIONS GOLF 2
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=18190&type=drm
-https://pipit.barjagaul.workers.dev/play.mpd?id=18190&type=dash
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
+#EXTINF:-1 tvg-id="Champions.TV.6.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="OLAHRAGA INTERNASIONAL",CHAMPIONS TV 6
+https://bosstv.asia/yabostv/9183.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2349,14 +2336,6 @@ https://flv.intechmedia.net/live/ch52.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch110.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal%2B_logo.svg/512px-Canal%2B_logo.svg.png" group-title="OLAHRAGA INTERNASIONAL",TENNIS+
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch166.m3u8
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="OLAHRAGA INTERNASIONAL",BILIARD TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch175.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="DOKUMENTER",ESCAPE TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch186.m3u8
@@ -2364,10 +2343,6 @@ https://flv.intechmedia.net/live/ch186.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Astro_logo.png/512px-Astro_logo.png" group-title="OLAHRAGA NASIONAL",ASTRO BADMINTON
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch191.m3u8
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Golf_Channel_logo.png/512px-Golf_Channel_logo.png" group-title="OLAHRAGA INTERNASIONAL",GOLF
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch195.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Viasat_logo.svg/512px-Viasat_logo.svg.png" group-title="DOKUMENTER INTERNASIONAL",VIASAT EXPLORE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2402,7 +2377,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="PENGETAHUAN",REAL WILD
 https://amg00426-littledotstudio-realwildnz-samsungnz-wz0bm.amagi.tv/playlist/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1  tvg-name="Investigation Discovery USA Eastern HD" tvg-id="investigation-discovery-usa-eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Investigation_Discovery_logo.png/512px-Investigation_Discovery_logo.png" group-title="DUKOMENTER",DISCOVERY INVESTIGATION
+#EXTINF:-1  tvg-name="Investigation Discovery USA Eastern HD" tvg-id="investigation-discovery-usa-eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Investigation_Discovery_logo.png/512px-Investigation_Discovery_logo.png" group-title="DOKUMENTER",DISCOVERY INVESTIGATION
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2828ea6f6a984505b0454da0c03f68b9:5d3b7195086544c2807aa8c1544e7379
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
