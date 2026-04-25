@@ -2692,5 +2692,6 @@ http://217.216.110.49:8000/boofx97
 ##http://217.216.110.49:8000/booyp65
 ##https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=boo
 
-#EXTINF:-1 tvg-id="TV123" tvg-name="OASIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Astro_Boo_logo.png/512px-Astro_Boo_logo.png" group-title="MALAYSIA TV",ASTRO OASIS
+#EXTINF:-1 tvg-id="TV123" tvg-name="OASIS" group-title="MALAYSIA TV",ASTRO OASIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv123.cc.cd/live.php/?ch=905dfe2a541
