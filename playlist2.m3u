@@ -2669,10 +2669,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=7737
 #EXTINF:-1 player-buffer="2" tvg-id="288.unifi" ch-number="288" tvg-name="HiYah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hi-Yah_logo.png/512px-Hi-Yah_logo.png" group-title="FILM DUNIA",HIYAH TV
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Astro_Prima_logo.png/512px-Astro_Prima_logo.png",ASTRO PRIMA
-##http://217.216.110.49:8000/primafx97
-http://217.216.110.49:8000/primayp65
-##https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=prima
+#EXTINF:-1 tvg-name="PRIMA" group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Astro_Ria_logo.png/512px-Astro_Ria_logo.png", ASTRO PRIMA
+https://tv123.cc.cd/live.php/?ch=905dfe2a541
 
 #EXTINF:-1 tvg-name="RIA HD" group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Astro_Ria_logo.png/512px-Astro_Ria_logo.png" ,ASTRO RIA
 http://217.216.110.49:8000/riafx97
@@ -2681,15 +2679,6 @@ http://217.216.110.49:8000/riafx97
 
 #EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="MALAYSIA TV" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Astro_Ceria_logo.png/512px-Astro_Ceria_logo.png" ,ASTRO CITRA
 https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=citra
-
-#EXTINF:-1 tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Astro_Rania_logo.png/512px-Astro_Rania_logo.png",ASTRO RANIA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"75cefb063f754b52bf2e695e8ec8eb29":"f5c0bc7625e6c067e84a9b2a76689cb5" ,"cca77c8b34ab40a0bb718f51c3ac3ef0":"d516157b8cc881915a83e62ceb40667d"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3Njg4MDc2MzUsImlzcyI6IlZSIiwiZXhwIjoxNzY4ODYxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZDA4ZDczOTUtOTIxYy00ZWRkLWI0MTQtZDQzMzU0Nzg0MGE2IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjYwOCJ9.cHR_ppct_LqiamMRsiQoZgy1FpeljoVxdZM1O1zj1P4"}
-https://l05.dp.sooka.my/608/linear/index.mpd
 
 #EXTINF:-1 tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Astro_Citra_logo.png/512px-Astro_Citra_logo.png" ,ASTRO CERIA
 http://217.216.110.49:8000/ceriafx97
