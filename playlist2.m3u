@@ -2695,3 +2695,11 @@ http://217.216.110.49:8000/boofx97
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Astro_Boo_logo.png/512px-Astro_Boo_logo.png" group-title="MALAYSIA TV",ASTRO OASIS
 https://tv123.cc.cd/live.php/?ch=905dfe2a541
 
+#EXTINF:-1 tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="MALAYSIA TB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Astro_Boo_logo.png/512px-Astro_Boo_logo.png",ASTRO RANIA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"75cefb063f754b52bf2e695e8ec8eb29":"f5c0bc7625e6c067e84a9b2a76689cb5" ,"cca77c8b34ab40a0bb718f51c3ac3ef0":"d516157b8cc881915a83e62ceb40667d"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3Njg4MDc2MzUsImlzcyI6IlZSIiwiZXhwIjoxNzY4ODYxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZDA4ZDczOTUtOTIxYy00ZWRkLWI0MTQtZDQzMzU0Nzg0MGE2IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjYwOCJ9.cHR_ppct_LqiamMRsiQoZgy1FpeljoVxdZM1O1zj1P4"}
+https://l05.dp.sooka.my/608/linear/index.mpd
