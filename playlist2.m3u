@@ -111,8 +111,10 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BN_Channel_logo.png/512px-BN_Channel_logo.png" group-title="NASIONAL",BN CHANNEL HD
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BeritaSatu_logo.png/512px-BeritaSatu_logo.png" group-title="NASIONAL",BERITA SATU HD
-http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BeritaSatu_logo.png/512px-BeritaSatu_logo.png" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687939_tvchannels_v1.jpeg" group-title="NASIONAL", BERITA SATU
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Magna_Channel_logo.png/512px-Magna_Channel_logo.png" group-title="NASIONAL",MAGNA CHANNEL HD
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
@@ -737,11 +739,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #EXTINF:-1 tvg-id="Warner TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="FILM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png",WARNER TV
 http://103.58.160.157:8278/720-WARNERTV/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="Citra.Bioskop.id" tvg-name="Citra Bioskop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Citra_Bioskop_logo.png/512px-Citra_Bioskop_logo.png" group-title="FILM",CITRA BIOSKOP
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBioskopHD.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Citra_Bioskop_logo.png/512px-Citra_Bioskop_logo.png" group-title="FILM", CITRA BIOSKOP
 http://202.169.224.202:8800/udp/239.9.1.15:1234
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2692,20 +2690,28 @@ http://217.216.110.49:8000/boofx97
 ##http://217.216.110.49:8000/booyp65
 ##https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=boo
 
-#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="113.astro" ch-number="113" ch-number=" " tvg-name="ASTRO AURA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="HOT CHANNEL", 113 Aura HD (Not 24H)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#https://464672d5a59d4c4298eb0a9e7ce0e3d9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH7-dash/vsg/41edcZjJiqKhRxBjxc1ULpW5hIvlOfKlu0JTZrdC4ABgU=yYJB/dash-wv/jitp-dashisowm/609/default_ott.mpd?aws.sessionId=35aa9863-d42b-4c1c-9857-fa89d8ce8376
-https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
-#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="113.astro" ch-number="113" ch-number=" " tvg-name="ASTRO AURA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="HOT CHANNEL", 113 Aura HD (Not 24H)
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/musik-indonesia-id.png",MUSIK INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-MUSIKINDONESIA/playlist.m3u8
 
-#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="HOT CHANNEL" tvg-logo="https://i.ibb.co/nSLyVxS/Astro-Rania-2024.png",112 Rania HD (Not 24H)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="" tvg-name="KILAS 7" tvg-logo="https://tv.cic.net.id/uploads/KILAS7.png" group-title="NASIONAL",KILAS 7
+http://iptv.kilas7.com:80/kaukia/asdfrewq/16
+
+#EXTINF:-1 tvg-id="Voli.TV.id" tvg-name="VOLI TV" tvg-logo="https://mimipipi22.github.io/logo/sports/volitv.jpg" group-title="OLAHRAGA NASIONAL",VOLI TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://mimipipi22.github.io/logo/offline.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOCNrB8.png" group-title="CIGNAL TV",Travel Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://0c9704d594f84b209c42ee0ae4015752.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH6-dash/vsg/41-E0hlTtIOOO3E9hE_L-ff6FkTekPylEdDIToeSWqeEg=uC2U/dash-wv/jitp-dashisowm/608/default_ott.mpd?aws.sessionId=14507ffc-168f-4a0d-af79-029bc769c76f
+#KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="KILAS 7" tvg-logo="https://tv.cic.net.id/uploads/KILAS7.png" group-title="NASIONAL",KILAS 7
+http://iptv.kilas7.com:80/kaukia/asdfrewq/25
+
+#EXTINF:-1 tvg-id="" tvg-name="KILAS 7" tvg-logo="https://tv.cic.net.id/uploads/KILAS7.png" group-title="NASIONAL",KILAS 7
+http://iptv.kilas7.com:80/kaukia/asdfrewq/23
