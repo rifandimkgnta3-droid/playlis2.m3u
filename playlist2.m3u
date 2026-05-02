@@ -2907,3 +2907,6 @@ https://cdn-live.dltv.ac.th/dltv08.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ISLAM", NABAWI TV
 http://194.42.205.99:8070/F36591/3f1a2b5c/306469
+
+#EXTINF:-1 tvg-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg" group-title="UBLIVE", CNN Indonesia
+http://cookies.elementfx.com/ublive/ublive.php?id=1145
