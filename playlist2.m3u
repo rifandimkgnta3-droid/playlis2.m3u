@@ -2908,5 +2908,8 @@ https://cdn-live.dltv.ac.th/dltv08.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ISLAM", NABAWI TV
 http://194.42.205.99:8070/F36591/3f1a2b5c/306469
 
-#EXTINF:-1 tvg-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg" group-title="UBLIVE", CNN Indonesia
-http://cookies.elementfx.com/ublive/ublive.php?id=1145
+#EXTINF:-1 tvg-id="2651" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dbdc7d39e_Vd9U.png" tvg-name="Arena" group-title="馬來西亞 | Malaysia",Arena
+https://tv123.cc.cd/live.php/?ch=2f4ee949803
+
+#EXTINF:-1 tvg-id="2710" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dbe7b03f2_4JBX.png" tvg-name="Arena 2" group-title="馬來西亞 | Malaysia",Arena 2
+https://tv123.cc.cd/live.php/?ch=9d0bc0ff804
