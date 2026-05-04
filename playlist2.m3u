@@ -2906,8 +2906,13 @@ https://cdn-live.dltv.ac.th/dltv07.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv08.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ISLAM", NABAWI TV
-http://194.42.205.99:8070/F36591/3f1a2b5c/306469
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ISLAM", NABAWI TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd
 
 #EXTINF:-1 tvg-id="ArenaBola" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Astro_Arena_logo.png/512px-Astro_Arena_logo.png" group-title="ASTRO GROUP",ASTRO ARENA BOLA
 ##KODIPROP:inputstream.adaptive.license_key=57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1
@@ -2937,7 +2942,7 @@ https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&chan
 ###KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
 https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ria
 
-#EXTINF:-1 group-title="ASTRO GROUP" tvg-id="aurahd" tvg-logo="https://get.perfecttv.net/logo/aura.png" ,ASTRO AURA
+#EXTINF:-1 group-title="ASTRO GROUP" tvg-id="aurahd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" ,ASTRO AURA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
 https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=aura
@@ -2947,13 +2952,13 @@ https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
 https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=rania
 
-#EXTINF:-1 tvg-id="1465" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" tvg-name="Oasis" group-title="ASTRO GROUP",ASTRO OASIS
+#EXTINF:-1 tvg-id="1465" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" tvg-name="ASTRO OASIS" group-title="ASTRO GROUP",ASTRO OASIS
 https://tv123.cc.cd/live.php/?ch=93de9932790
 
-#EXTINF:-1 tvg-id="2750" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" tvg-name="Sensasi" group-title="ASTRO GROUP", ASTRO SENSASI
+#EXTINF:-1 tvg-id="2750" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" tvg-name="ASTRO SENSASI" group-title="ASTRO GROUP",ASTRO SENSASI
 https://tv123.cc.cd/live.php/?ch=2534332c799
 
-#EXTINF:-1 tvg-id="2528" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" tvg-name="Showcase" group-title="ASTRO GROUP",ASTRO SHOWCASE
+#EXTINF:-1 tvg-id="2528" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" tvg-name="ASTRO SHOWCASE" group-title="ASTRO GROUP",ASTRO SHOWCASE
 https://tv123.cc.cd/live.php/?ch=79efdc1d810
 
 #EXTINF:-1 tvg-id="rtmsukan" tvg-name="" group-title="MALAYSIA TV" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/RTM_logo.png/512px-RTM_logo.png", RTM SUKAN
@@ -2963,33 +2968,126 @@ https://tv123.cc.cd/live.php/?ch=79efdc1d810
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 tvg-id="2832" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Astro_logo.png/512px-Astro_logo.png" tvg-name="Astro Badminton" group-title="ASTRO GROUP",ASTRO BADMINTON
-https://tv123.cc.cd/live.php/?ch=46fddf9f813
-
 #EXTINF:-1 xui-id="29" tvg-id="ATV.id" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="HIBURAN",ATV
 https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/29.ts
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="DAERAH",BALAIKOTA CHANNEL
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://paylist.ambatukan.workers.dev/s/firstmedia/7tc66gws/play.mpd?id=21&hdnts=exp=1777681087~acl=/s/firstmedia/7tc66gws/*~id=allUsers~hmac=8df328dc898d1b99fdbf1932eb5e942880477599b7e5d56e1e604562c42d5eb3
-https://paylist.ambatukan.workers.dev/s/firstmedia/7tc66gws/play.mpd?id=21&hdnts=exp=1777681087~acl=/s/firstmedia/7tc66gws/*~id=allUsers~hmac=8df328dc898d1b99fdbf1932eb5e942880477599b7e5d56e1e604562c42d5eb3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI JAKARTA
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="DAERAH",BALAIKOTA BANDUNG CHANNEL
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://paylist.ambatukan.workers.dev/s/firstmedia/7tc66gws/play.mpd?id=68&hdnts=exp=1777681087~acl=/s/firstmedia/7tc66gws/*~id=allUsers~hmac=8df328dc898d1b99fdbf1932eb5e942880477599b7e5d56e1e604562c42d5eb3
-https://paylist.ambatukan.workers.dev/s/firstmedia/7tc66gws/play.mpd?id=68&hdnts=exp=1777681087~acl=/s/firstmedia/7tc66gws/*~id=allUsers~hmac=8df328dc898d1b99fdbf1932eb5e942880477599b7e5d56e1e604562c42d5eb3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI AMBON
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon-avc1_1500000=10006-mp4a_96000=20001.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="KRISTEN",FIRST FAITH
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://paylist.ambatukan.workers.dev/s/firstmedia/7tc66gws/play.mpd?id=333&hdnts=exp=1777681087~acl=/s/firstmedia/7tc66gws/*~id=allUsers~hmac=8df328dc898d1b99fdbf1932eb5e942880477599b7e5d56e1e604562c42d5eb3
-https://paylist.ambatukan.workers.dev/s/firstmedia/7tc66gws/play.mpd?id=333&hdnts=exp=1777681087~acl=/s/firstmedia/7tc66gws/*~id=allUsers~hmac=8df328dc898d1b99fdbf1932eb5e942880477599b7e5d56e1e604562c42d5eb3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI BALI
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="HIBURAN",FIRST HIGHLIGHTS
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://paylist.ambatukan.workers.dev/s/firstmedia/7tc66gws/play.mpd?id=27&hdnts=exp=1777681087~acl=/s/firstmedia/7tc66gws/*~id=allUsers~hmac=8df328dc898d1b99fdbf1932eb5e942880477599b7e5d56e1e604562c42d5eb3
-https://paylist.ambatukan.workers.dev/s/firstmedia/7tc66gws/play.mpd?id=27&hdnts=exp=1777681087~acl=/s/firstmedia/7tc66gws/*~id=allUsers~hmac=8df328dc898d1b99fdbf1932eb5e942880477599b7e5d56e1e604562c42d5eb3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI BANGKA BELITUNG
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI BENGKULU
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu-avc1_1500000=10007-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI GORONTALO
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo-avc1_1500000=10008-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI JAMBI
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI JAWA BARAT
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI JAWA TENGAH
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI JAWA TIMUR
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_1500000=10008-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI KALIMANTAN BARAT
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar-avc1_1500000=10006-mp4a_96000_eng=20002.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI KALIMANTAN SELATAN
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI KALIMANTAN TENGAH
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI KALIMANTAN TIMUR
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI LAMPUNG
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI ACEH
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI NTB
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI NTT
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI PAPUA
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI RIAU
+https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau-avc1_1500000=10003.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI SULAWESI BARAT
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI SULAWESI SELATAN
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI SULAWESI TENGAH
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI SULAWESI TENGGARA
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI SULAWESI UTARA
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut-avc1_2500000=10004-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI SUMATRA BARAT
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar-avc1_1500000=10003-mp4a_96000_eng=20002.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI SUMATRA SELATAN
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI SUMATRA UTARA
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut-avc1_1500000=10003-mp4a_96000_eng=20002.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI YOGYAKARTA
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVRI_logo.svg/512px-TVRI_logo.svg.png" group-title="TVRI GROUP",TVRI PAPUA BARAT
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="DAERAH",PBTV
+http://iptv.kilas7.com:80/kaukia/asdfrewq/17
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="KRISTEN",PIJAR TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ISLAM",KHAZANAH TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+
+#EXTINF:-1 group-title="ISLAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png",AJWA TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://nextgenz.my.id/event/pidio/play.mpd?id=7464&type=dash
+#https://spacetv.my.id/index.mpd?id=7464&type=dash
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Daystar_Television_Network_logo.png/512px-Daystar_Television_Network_logo.png" group-title="KRISTEN",DAYSTAR TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://nextgenz.my.id/event/pidio/play.mpd?id=18622&type=dash
+#https://spacetv.my.id/index.mpd?id=18622&type=dash
