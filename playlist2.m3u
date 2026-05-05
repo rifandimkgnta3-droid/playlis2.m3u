@@ -3091,3 +3091,8 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=7464&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://nextgenz.my.id/event/pidio/play.mpd?id=18622&type=dash
 #https://spacetv.my.id/index.mpd?id=18622&type=dash
+
+#EXTINF:0 tvg-id="ChampionsGolf1HD" tvg-name="ChampionsGolf1HD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/418.png" group-title="FIRSTMEDIA",ChampionsGolf1HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/418/index.mpd
+https://firstmedia.ambatukan.workers.dev/418/index.mpd
