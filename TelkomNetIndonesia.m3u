@@ -3096,3 +3096,8 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=18622&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/418/index.mpd
 https://firstmedia.ambatukan.workers.dev/418/index.mpd
+
+#EXTINF:0 tvg-id="CitraBioskopHD" tvg-name="CitraBioskopHD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/96.png" group-title="FIRSTMEDIA",CitraBioskopHD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/96/index.mpd
+https://firstmedia.ambatukan.workers.dev/96/index.mpd
