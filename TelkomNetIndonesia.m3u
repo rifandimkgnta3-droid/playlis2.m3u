@@ -762,13 +762,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MovieSphere_logo.png/512px-MovieSphere_logo.png" group-title="FILM" ,MOVIESPHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MovieSphere_logo.png/512px-MovieSphere_logo.png" group-title="FILM" ,MOVIESPHERE LIONSGATE
-https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MovieSphere_logo.png/512px-MovieSphere_logo.png" group-title="FILM" ,OUTERSPHERE LIONSGATE
-https://raw.githubusercontent.com/mystery75/m3u8/main/OUTERSPHERE.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tap_Movies_logo.png/512px-Tap_Movies_logo.png" group-title="FILM" ,TAPMOVIES HD
@@ -1384,28 +1377,23 @@ http://212.102.60.231/NICKTOONS/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=aec51cf82ef14226a097a4ff91b7b32e:652bcaec397fb789fa5138fd3461333c
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/399aa25b71e84ab19a7d3261703c4a29/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ANAK",CARTOON TV PREMIUM
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
+#EXTINF:-1 tvg-id="220.trans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" tvg-name="Cartoon TV Premium" group-title="ANAK", CARTOON TV PREMIUM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee68086f028e431385bba0a6a8f71543:cb97a816d96d45b192bd97a9be922094
+https://cdnjktbpid02.transvision.co.id/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/Q2FydG9vbiBUViBQcmVtaXVt/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ANAK",CARTOON TV
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
+#EXTINF:-1 tvg-id="221.trans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" tvg-name="Cartoon TV" group-title="ANAK", CARTOON TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee68086f028e431385bba0a6a8f71543:cb97a816d96d45b192bd97a9be922094
+https://cdnjktbpid02.transvision.co.id/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/Q2FydG9vbiBUVg/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="ANAK",CARTOON TV CLASSICS
-https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Channel_Dangdut_Indonesia_logo.png/512px-Channel_Dangdut_Indonesia_logo.png" group-title="MUSIK",CDI
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
-http://gooo.blog/opix/genx.m3u8?id=cdi&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+#EXTINF:-1 tvg-id="223.trans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" tvg-name="Cartoon TV Classic" group-title="ANAK", CARTOON TV CLASSIC
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee68086f028e431385bba0a6a8f71543:cb97a816d96d45b192bd97a9be922094
+https://cdnjktbpid02.transvision.co.id/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/Q2FydG9vbiBUViBDbGFzc2ljcw/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Channel_V_logo.png/512px-Channel_V_logo.png" group-title="MUSIK", CHANNEL V CHINA
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
@@ -1806,7 +1794,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/512px-Logo_tv2000_2015.svg.png" group-title="KRISTEN",TV200
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/512px-Logo_tv2000_2015.svg.png" group-title="KRISTEN",TV2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1924,9 +1912,6 @@ http://cdn6.163189.xyz/163189/ch8
 
 #EXTINF:-1 tvg-id="Ch 8" tvg-name="Channel U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/MediaCorp_U_logo.png/512px-MediaCorp_U_logo.png" group-title="SINGAPURA TV", CHANNEL U
 http://cdn6.163189.xyz/163189/chu
-
-#EXTINF:-1 group-title="SINGAPURA TV" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Channel_NewsAsia_logo.svg/512px-Channel_NewsAsia_logo.svg.png", CNA HD
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2468,7 +2453,7 @@ https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca14f847ee:9def4315f0004019a3705bcb3cf30ca3
-#EXTINF:-1 tvg-id="zoom2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zoom_TV_logo.png/512px-Zoom_TV_logo.png" group-title="INDIA", ZOOM TV
+#EXTINF:-1 tvg-id="zoom2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zoom_TV_logo.png/512px-Zoom_TV_logo.png" group-title="INDIA TV", ZOOM TV
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="TravelXP4k.mv" tvg-name="Travel XP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Travelxp_logo.png/512px-Travelxp_logo.png" group-title="GAYA HIDUP",TRAVEL XP
@@ -3003,3 +2988,24 @@ https://firstmedia.ambatukan.workers.dev/300/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/205/index.mpd
 https://firstmedia.ambatukan.workers.dev/205/index.mpd
 
+#EXTINF:-1 tvg-id="260.trans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" tvg-name="Knowledge+" group-title="PENGETAHUAN", KNOWLEDGE+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee68086f028e431385bba0a6a8f71543:cb97a816d96d45b192bd97a9be922094
+https://cdnjktbpid02.transvision.co.id/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/S25vd2xlZGdlKw/manifest.mpd
+
+#EXTINF:-1 tvg-id="162.trans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_Movie_Channel.png" tvg-name="Movies News" group-title="FILM", MOVIES NEWS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee68086f028e431385bba0a6a8f71543:cb97a816d96d45b192bd97a9be922094
+https://cdnjktbpid02.transvision.co.id/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/TW92aWVzIE5ld3M/manifest.mpd
+
+#EXTINF:0 tvg-id="BalaikotaChannel" tvg-name="BalaikotaChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="DAERAH",BALAI KOTA CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/21/index.mpd
+https://firstmedia.ambatukan.workers.dev/21/index.mpd
+
+#EXTINF:0 tvg-id="BalaikotaBandung" tvg-name="BalaikotaBandung" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Television_icon.png/512px-Television_icon.png" group-title="DAERAH",BALAI KOTA BANDUNG CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://firstmedia.ambatukan.workers.dev/68/index.mpd
+https://firstmedia.ambatukan.workers.dev/68/index.mpd
