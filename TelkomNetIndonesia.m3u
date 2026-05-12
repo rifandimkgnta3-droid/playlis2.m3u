@@ -105,10 +105,10 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/TVRI_logo_2019.svg/512px-TVRI_logo_2019.svg.png" group-title="NASIONAL",TVRI NASIONAL HD
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nusantara_TV_logo.svg/512px-Nusantara_TV_logo.svg.png" group-title="NASIONAL",NUSANTARATV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nusantara_TV_logo.svg/512px-Nusantara_TV_logo.svg.png" group-title="NASIONAL",NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BN_Channel_logo.png/512px-BN_Channel_logo.png" group-title="NASIONAL",BN CHANNEL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BN_Channel_logo.png/512px-BN_Channel_logo.png" group-title="NASIONAL",BN CHANNEL
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BeritaSatu_logo.png/512px-BeritaSatu_logo.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BeritaSatu_logo.png/512px-BeritaSatu_logo.png" group-title="NASIONAL", BERITA SATU
@@ -116,7 +116,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Magna_Channel_logo.png/512px-Magna_Channel_logo.png" group-title="NASIONAL",MAGNA CHANNEL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Magna_Channel_logo.png/512px-Magna_Channel_logo.png" group-title="NASIONAL",MAGNA CHANNEL
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
